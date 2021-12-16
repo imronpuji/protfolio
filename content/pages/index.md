@@ -57,10 +57,9 @@ sections:
         media_position: right
         media_width: sixty
       - title: Framework Front End
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Saya juga menguasai beberapa framework front end, diantara lain **vue
+          js, react js**
         actions:
           - label: See Past Work
             url: /faq
