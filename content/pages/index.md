@@ -27,10 +27,9 @@ sections:
     features:
       - title: 'HTML, CSS, JS'
         subtitle: 'Website Responsive, Beautifull Website.'
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Saya akan menangani Design konten Web, Responsive Web, Styling Web,
+          Interaksi web, Tidak ada pekerjaan yang terlalu besar atau kecil!.
         actions:
           - label: See Writing Samples
             url: /faq
