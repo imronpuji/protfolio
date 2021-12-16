@@ -5,8 +5,7 @@ sections:
     title: 'Hi, saya Imron.'
     subtitle: >-
       Saya akan                                    menangani desain dan produksi
-      situs web Anda, akun media sosial dan iklan digital untuk Anda, dengan
-      harga yang terjangkau.
+      situs web Anda, dengan harga yang terjangkau.
     actions:
       - label: Contact Me
         url: /contact
