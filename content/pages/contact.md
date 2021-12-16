@@ -3,7 +3,9 @@ title: Contact
 sections:
   - type: hero_section
     title: Hubungi Saya
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: >-
+      Isi formulir di bawah ini dan saya akan menghubungi Anda dalam 1 hari
+      kerja.
     align: center
     padding_top: medium
     padding_bottom: medium
