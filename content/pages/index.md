@@ -7,7 +7,7 @@ sections:
       Saya akan                                    menangani desain dan produksi
       situs web Anda, dengan harga yang terjangkau.
     actions:
-      - label: Contact Me
+      - label: Hubungi Saya
         url: /contact
         style: primary
     image: images/hero.png
