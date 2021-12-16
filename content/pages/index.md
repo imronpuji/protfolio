@@ -10,7 +10,7 @@ sections:
       - label: Hubungi Saya
         url: /contact
         style: primary
-    image: images/hero.png
+    image: /images/WhatsApp_Image_2021-12-16_at_20.06.30-removebg-preview.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
