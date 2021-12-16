@@ -75,12 +75,12 @@ sections:
     align: center
     background_color: none
   - type: form_section
-    content: >-
-      ## Let's talk
+    content: >
+      ## Mari Berbicara
 
 
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
+      Anda ingin informasi lebih lanjut tentang layanan dan harga saya, silakan
+      hubungi saya menggunakan formulir di bawah ini.
     content_align: left
     form_position: right
     form_width: fifty
