@@ -24,7 +24,8 @@
             },
             {
                 "url": "/contact",
-                "style": "link"
+                "style": "link",
+                "label": "hubungi Saya"
             }
         ],
         "has_secondary_nav": false
