@@ -61,7 +61,7 @@ sections:
           Saya juga menguasai beberapa framework front end, diantara lain **vue
           js, react js**
         actions:
-          - label: See Past Work
+          - label: Lihat Contoh
             url: /faq
             style: primary
             has_icon: true
