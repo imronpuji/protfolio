@@ -23,7 +23,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: features_section
-    subtitle: Apa Yang Bisa Aku Lakukan
+    subtitle: Apa Yang Bisa Saya Lakukan
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
