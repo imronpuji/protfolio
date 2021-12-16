@@ -26,7 +26,7 @@ sections:
     subtitle: Apa Yang Bisa Saya Lakukan
     features:
       - title: 'HTML, CSS, JS'
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: 'Website Responsive, Beautifull Website.'
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
