@@ -11,22 +11,20 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ## Pricing
+    content: >
+      ##### harga&#xD;&#xA;Setelah panggilan orientasi singkat, saya akan dapat
+      memberi Anda harga rata-rata, diikuti dengan proposal terperinci setelah
+      kami membahas detailnya.
 
-      After a short onboarding call I will be able to provide you with ballpark
-      pricing, followed by a detailed proposal once we discuss the details. 
 
-      ### Proposal
+      ##### &#xD;&#xA;Usul&#xD;&#xA;Proposal Anda akan mencakup beberapa pilihan
+      dalam hal struktur harga dan waktu pengiriman.&#xD;&#xA;Ketentuan
 
-      Your proposal will include several choices in terms of pricing structure
-      and deliverable timeline.
 
-      ### Terms
-
-      If at any point you'd like to cancel our project, you are required to
-      provide a 30-day written notice, after which I will transfer all of your
-      assets to you so you can use them anytime.
+      ##### &#xD;&#xA;Jika suatu saat Anda ingin membatalkan proyek kami, Anda
+      harus memberikan pemberitahuan tertulis 30 hari, setelah itu saya akan
+      mentransfer semua aset Anda kepada Anda sehingga Anda dapat menggunakannya
+      kapan saja.
     content_align: left
     form_position: left
     form_width: fifty
