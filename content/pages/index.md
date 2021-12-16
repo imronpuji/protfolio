@@ -31,7 +31,7 @@ sections:
           Saya akan menangani Design konten Web, Responsive Web, Styling Web,
           Interaksi web, Tidak ada pekerjaan yang terlalu besar atau kecil!.
         actions:
-          - label: See Writing Samples
+          - label: Lihat Contoh
             url: /faq
             style: primary
             has_icon: true
