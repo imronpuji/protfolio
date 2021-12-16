@@ -46,7 +46,7 @@ sections:
           Saya Menguasai Beberapa Framework Backend Web, Diantara lain,
           **express js, codigniter 4, ruby on rails**
         actions:
-          - label: Learn More
+          - label: Lihat Contoh
             url: /about
             style: secondary
             has_icon: true
