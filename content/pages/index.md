@@ -25,7 +25,7 @@ sections:
   - type: features_section
     subtitle: Apa Yang Bisa Saya Lakukan
     features:
-      - title: Content Creation
+      - title: 'HTML, CSS, JS'
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
